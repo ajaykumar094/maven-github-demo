@@ -10,7 +10,7 @@ public class AppTest {
 
     @Test
     void testTotal() {
-        assertEquals(225, App.calculateTotal(75, 68, 82));
+        assertEquals(22500000, App.calculateTotal(75, 68, 82));
     }
 
     @Test
